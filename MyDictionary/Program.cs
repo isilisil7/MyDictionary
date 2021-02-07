@@ -12,7 +12,7 @@ namespace MyDictionary
             Console.WriteLine("values length: " + info.LengthValues);
             info.Add("name", "isil");
             info.Add("surname", "ozkaynak");
-            Console.WriteLine("items length: " + info.LengthItems);
+            Console.WriteLine("items length: " +  info.LengthItems);
             Console.WriteLine("values length: " + info.LengthValues);
             info.Add("color", "blue");
             info.Add("number", "9999");
